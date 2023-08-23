@@ -18,7 +18,10 @@ import UserForm from "./UserForm";
 
 function App() {
   return (
+    <div>
+    {/*ex. 1*/}
     <UserForm />
+    </div>
   );
 }
 
